@@ -1,0 +1,11 @@
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\bin\Debug\net9.0\Domain.dll
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\bin\Debug\net9.0\Domain.pdb
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.dll
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\Domain.pdb
+C:\dev\GestaoPedidosTmb\src\Backend\Domain\obj\Debug\net9.0\ref\Domain.dll
